@@ -4,7 +4,7 @@ This project took a Kaggle Dataset of 700 D&D Monsters. Monster statistics were 
 The goal of this project is to utilize Sparks API along with K-Means clustering to discover patterns in monster design. 
 Cluster amount was decided with the assistance of an elbow plot, which identified 5 clusters as the opimal explanations of varience.
 
-<img width="1460" height="820" alt="image" src="https://github.com/user-attachments/assets/41772a60-96a7-4da0-8f01-119fc478088d" />
+<img width="1458" height="821" alt="image" src="https://github.com/user-attachments/assets/fbcc9ca0-cec3-4d64-ad96-1efd8f8a1c20" />
 
 Tableau Dashboard: https://public.tableau.com/views/DDBook1_17696290095560/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
