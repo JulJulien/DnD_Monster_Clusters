@@ -1,0 +1,402 @@
+name,cr,type,size,ac,hp,speed,align,legendary,str,dex,con,int,wis,cha,Method,Morality,Aligned
+aarakocra,0.25,humanoid,Medium,12,13,fly,neutral good,False,10.0,14.0,10.0,11.0,12.0,11.0,neutral,good,aligned
+aboleth,10.0,aberration,Large,17,135,swim,lawful evil,True,21.0,9.0,15.0,18.0,15.0,18.0,lawful,evil,aligned
+acolyte,0.25,humanoid,Medium,10,9,land,any alignment,False,10.0,10.0,10.0,10.0,14.0,11.0,any,any,any alignment
+adult-black-dragon,14.0,dragon,Huge,19,195,"fly, swim",chaotic evil,True,23.0,14.0,21.0,14.0,13.0,17.0,chaotic,evil,aligned
+adult-blue-dragon,16.0,dragon,Huge,19,225,fly,lawful evil,True,25.0,10.0,23.0,16.0,15.0,19.0,lawful,evil,aligned
+adult-brass-dragon,13.0,dragon,Huge,18,172,fly,chaotic good,True,23.0,10.0,21.0,14.0,13.0,17.0,chaotic,good,aligned
+adult-bronze-dragon,15.0,dragon,Huge,19,212,"fly, swim",lawful good,True,25.0,10.0,23.0,16.0,15.0,19.0,lawful,good,aligned
+adult-copper-dragon,14.0,dragon,Huge,18,184,fly,chaotic good,True,23.0,12.0,21.0,18.0,15.0,17.0,chaotic,good,aligned
+adult-gold-dragon,17.0,dragon,Huge,19,256,"fly, swim",lawful good,True,27.0,14.0,25.0,16.0,15.0,24.0,lawful,good,aligned
+adult-green-dragon,15.0,dragon,Huge,19,207,"fly, swim",lawful evil,True,23.0,12.0,21.0,18.0,15.0,17.0,lawful,evil,aligned
+adult-red-dragon,17.0,dragon,Huge,19,256,fly,chaotic evil,True,27.0,10.0,25.0,16.0,13.0,21.0,chaotic,evil,aligned
+adult-silver-dragon,16.0,dragon,Huge,19,243,fly,lawful good,True,27.0,10.0,25.0,16.0,13.0,21.0,lawful,good,aligned
+adult-white-dragon,13.0,dragon,Huge,18,200,"fly, swim",chaotic evil,True,22.0,10.0,22.0,8.0,12.0,12.0,chaotic,evil,aligned
+air-elemental,5.0,elemental,Large,15,90,fly,neutral,False,14.0,20.0,14.0,6.0,10.0,6.0,neutral,neutral,aligned
+allosaurus,2.0,beast,Large,13,51,land,unaligned,False,19.0,13.0,17.0,2.0,12.0,5.0,None,None,unaligned
+ancient-black-dragon,21.0,dragon,Gargantuan,22,367,"fly, swim",chaotic evil,True,27.0,14.0,25.0,16.0,15.0,19.0,chaotic,evil,aligned
+ancient-blue-dragon,23.0,dragon,Gargantuan,22,481,fly,lawful evil,True,29.0,10.0,27.0,18.0,17.0,21.0,lawful,evil,aligned
+ancient-brass-dragon,20.0,dragon,Gargantuan,20,297,fly,chaotic good,True,27.0,10.0,25.0,16.0,15.0,19.0,chaotic,good,aligned
+ancient-bronze-dragon,22.0,dragon,Gargantuan,22,444,"fly, swim",lawful good,True,29.0,10.0,27.0,18.0,17.0,21.0,lawful,good,aligned
+ancient-copper-dragon,21.0,dragon,Gargantuan,21,350,fly,chaotic good,True,27.0,12.0,25.0,20.0,17.0,19.0,chaotic,good,aligned
+ancient-gold-dragon,24.0,dragon,Gargantuan,22,546,"fly, swim",lawful good,True,30.0,14.0,29.0,18.0,17.0,28.0,lawful,good,aligned
+ancient-green-dragon,22.0,dragon,Gargantuan,21,385,"fly, swim",lawful evil,True,27.0,12.0,25.0,20.0,17.0,19.0,lawful,evil,aligned
+ancient-red-dragon,24.0,dragon,Gargantuan,22,546,fly,chaotic evil,True,30.0,10.0,29.0,18.0,15.0,23.0,chaotic,evil,aligned
+ancient-shadow,1.0,undead,Medium,13,32,land,chaotic evil,False,6.0,16.0,14.0,6.0,10.0,8.0,chaotic,evil,aligned
+ancient-silver-dragon,23.0,dragon,Gargantuan,22,487,fly,lawful good,True,30.0,10.0,29.0,18.0,15.0,23.0,lawful,good,aligned
+ancient-white-dragon,20.0,dragon,Gargantuan,20,333,"fly, swim",chaotic evil,True,26.0,10.0,26.0,10.0,13.0,14.0,chaotic,evil,aligned
+androsphinx,17.0,monstrosity,Large,17,199,fly,lawful neutral,True,22.0,10.0,20.0,16.0,18.0,23.0,lawful,neutral,aligned
+animated-armor,1.0,construct,Medium,18,33,land,unaligned,False,14.0,11.0,13.0,1.0,3.0,1.0,None,None,unaligned
+ankheg,2.0,monstrosity,Large,14,39,land,unaligned,False,17.0,11.0,13.0,1.0,13.0,6.0,None,None,unaligned
+ankylosaurus,3.0,beast,Huge,15,68,land,unaligned,False,19.0,11.0,15.0,2.0,12.0,5.0,None,None,unaligned
+annis-hag,6.0,fey,Large,17,75,land,chaotic evil,False,21.0,12.0,14.0,13.0,14.0,15.0,chaotic,evil,aligned
+ape,0.5,beast,Medium,12,19,land,unaligned,False,16.0,14.0,14.0,6.0,12.0,7.0,None,None,unaligned
+archmage,12.0,humanoid,Medium,12,99,land,any alignment,False,10.0,14.0,12.0,20.0,15.0,16.0,any,any,any alignment
+assassin,8.0,humanoid,Medium,15,78,land,any non-good alignment,False,11.0,16.0,14.0,13.0,11.0,10.0,any,good,aligned
+astral-dreadnought,21.0,monstrosity,Gargantuan,20,297,fly,unaligned,True,28.0,7.0,25.0,5.0,14.0,18.0,None,None,unaligned
+aurochs,2.0,beast,Large,11,38,land,unaligned,False,20.0,10.0,19.0,2.0,12.0,5.0,None,None,unaligned
+awakened-shrub,0.0,plant,Small,9,10,land,unaligned,False,3.0,8.0,11.0,10.0,10.0,6.0,None,None,unaligned
+awakened-tree,2.0,plant,Huge,13,59,land,unaligned,False,19.0,6.0,15.0,10.0,10.0,7.0,None,None,unaligned
+axe-beak,0.25,beast,Large,11,19,land,unaligned,False,14.0,12.0,12.0,2.0,10.0,5.0,None,None,unaligned
+azer,2.0,elemental,Medium,17,39,land,lawful neutral,False,17.0,12.0,15.0,12.0,13.0,10.0,lawful,neutral,aligned
+baboon,0.0,beast,Small,12,3,land,unaligned,False,8.0,14.0,11.0,4.0,12.0,6.0,None,None,unaligned
+badger,0.0,beast,Tiny,10,3,land,unaligned,False,4.0,11.0,12.0,2.0,12.0,5.0,None,None,unaligned
+balor,19.0,fiend,Huge,19,262,fly,chaotic evil,False,26.0,15.0,22.0,20.0,16.0,22.0,chaotic,evil,aligned
+bandit,0.125,humanoid,Medium,12,11,land,any non-lawful alignment,False,11.0,12.0,12.0,10.0,10.0,10.0,lawful,any,aligned
+bandit-captain,2.0,humanoid,Medium,15,65,land,any non-lawful alignment,False,15.0,16.0,14.0,14.0,11.0,14.0,lawful,any,aligned
+banshee,4.0,undead,Medium,12,58,fly,chaotic evil,False,1.0,14.0,10.0,12.0,11.0,17.0,chaotic,evil,aligned
+barbed-devil,5.0,fiend,Medium,15,110,land,lawful evil,False,16.0,17.0,18.0,12.0,14.0,14.0,lawful,evil,aligned
+barghest,4.0,fiend,Large,17,90,land,neutral evil,False,19.0,15.0,14.0,13.0,12.0,14.0,neutral,evil,aligned
+barlgura,5.0,fiend,Large,15,68,land,chaotic evil,False,18.0,15.0,16.0,7.0,14.0,9.0,chaotic,evil,aligned
+basilisk,3.0,monstrosity,Medium,15,52,land,unaligned,False,16.0,8.0,15.0,2.0,8.0,7.0,None,None,unaligned
+bat,0.0,beast,Tiny,12,1,fly,unaligned,False,2.0,15.0,8.0,2.0,12.0,4.0,None,None,unaligned
+bearded-devil,3.0,fiend,Medium,13,52,land,lawful evil,False,16.0,15.0,15.0,9.0,11.0,11.0,lawful,evil,aligned
+behir,11.0,monstrosity,Huge,17,168,land,neutral evil,False,23.0,16.0,18.0,7.0,14.0,12.0,neutral,evil,aligned
+belaphoss,20.0,fiend,Huge,19,262,fly,chaotic evil,False,26.0,15.0,22.0,20.0,16.0,22.0,chaotic,evil,aligned
+berserker,2.0,humanoid,Medium,13,67,land,any chaotic alignment,False,16.0,12.0,17.0,9.0,11.0,9.0,chaotic,any,aligned
+black-bear,0.5,beast,Medium,11,19,land,unaligned,False,15.0,10.0,14.0,2.0,12.0,7.0,None,None,unaligned
+black-dragon-wyrmling,2.0,dragon,Medium,17,33,"fly, swim",chaotic evil,False,15.0,14.0,13.0,10.0,11.0,13.0,chaotic,evil,aligned
+black-pudding,4.0,ooze,Large,7,85,land,unaligned,False,16.0,5.0,16.0,1.0,6.0,1.0,None,None,unaligned
+blink-dog,0.25,fey,Medium,13,22,land,lawful good,False,12.0,17.0,12.0,10.0,13.0,11.0,lawful,good,aligned
+blood-hawk,0.125,beast,Small,12,7,fly,unaligned,False,6.0,14.0,10.0,3.0,14.0,5.0,None,None,unaligned
+blue-dragon-wyrmling,3.0,dragon,Medium,17,52,fly,lawful evil,False,17.0,10.0,15.0,12.0,11.0,15.0,lawful,evil,aligned
+boar,0.25,beast,Medium,11,11,land,unaligned,False,13.0,11.0,12.0,2.0,9.0,5.0,None,None,unaligned
+bone-devil,9.0,fiend,Large,19,142,fly,lawful evil,False,18.0,16.0,18.0,13.0,14.0,16.0,lawful,evil,aligned
+brass-dragon-wyrmling,1.0,dragon,Medium,16,16,fly,chaotic good,False,15.0,10.0,13.0,10.0,11.0,13.0,chaotic,good,aligned
+bronze-dragon-wyrmling,2.0,dragon,Medium,17,32,"fly, swim",lawful good,False,17.0,10.0,15.0,12.0,11.0,15.0,lawful,good,aligned
+brown-bear,1.0,beast,Large,11,34,land,unaligned,False,19.0,10.0,16.0,2.0,13.0,7.0,None,None,unaligned
+bugbear,1.0,humanoid,Medium,16,27,land,chaotic evil,False,15.0,14.0,13.0,8.0,11.0,9.0,chaotic,evil,aligned
+bulette,5.0,monstrosity,Large,17,94,land,unaligned,False,19.0,11.0,21.0,2.0,10.0,5.0,None,None,unaligned
+bullywug,0.25,humanoid,Medium,15,11,swim,neutral evil,False,12.0,12.0,13.0,7.0,10.0,7.0,neutral,evil,aligned
+camel,0.125,beast,Large,9,15,land,unaligned,False,16.0,8.0,14.0,2.0,8.0,5.0,None,None,unaligned
+cat,0.0,beast,Tiny,12,2,land,unaligned,False,3.0,15.0,10.0,3.0,12.0,7.0,None,None,unaligned
+centaur,2.0,monstrosity,Large,12,45,land,neutral good,False,18.0,14.0,14.0,9.0,13.0,11.0,neutral,good,aligned
+chain-devil,8.0,fiend,Medium,16,85,land,lawful evil,False,18.0,15.0,18.0,11.0,12.0,14.0,lawful,evil,aligned
+chimera,6.0,monstrosity,Large,14,114,fly,chaotic evil,False,19.0,11.0,19.0,3.0,14.0,10.0,chaotic,evil,aligned
+chuul,4.0,aberration,Large,16,93,swim,chaotic evil,False,19.0,10.0,16.0,5.0,11.0,5.0,chaotic,evil,aligned
+clay-golem,9.0,construct,Large,14,133,land,unaligned,False,20.0,9.0,18.0,3.0,8.0,1.0,None,None,unaligned
+cloaker,8.0,aberration,Large,14,78,fly,chaotic neutral,False,17.0,15.0,12.0,13.0,12.0,14.0,chaotic,neutral,aligned
+cloud-giant,9.0,giant,Huge,14,200,land,neutral good ,False,27.0,10.0,22.0,12.0,16.0,16.0,neutral,good,aligned
+cockatrice,0.5,monstrosity,Small,11,27,fly,unaligned,False,6.0,12.0,12.0,2.0,13.0,5.0,None,None,unaligned
+commoner,0.0,humanoid,Medium,10,4,land,any alignment,False,10.0,10.0,10.0,10.0,10.0,10.0,any,any,any alignment
+constrictor-snake,0.25,beast,Large,12,13,swim,unaligned,False,15.0,14.0,12.0,1.0,10.0,3.0,None,None,unaligned
+copper-dragon-wyrmling,1.0,dragon,Medium,16,22,fly,chaotic good,False,15.0,12.0,13.0,14.0,11.0,13.0,chaotic,good,aligned
+couatl,4.0,celestial,Medium,19,97,fly,lawful good,False,16.0,20.0,17.0,18.0,20.0,18.0,lawful,good,aligned
+cow,0.25,beast,Large,10,15,land,unaligned,False,18.0,10.0,14.0,2.0,10.0,4.0,None,None,unaligned
+crab,0.0,beast,Tiny,11,2,swim,unaligned,False,2.0,11.0,10.0,1.0,8.0,2.0,None,None,unaligned
+crawling-claw,0.0,undead,Tiny,12,2,land,neutral evil,False,13.0,14.0,11.0,5.0,10.0,4.0,neutral,evil,aligned
+crocodile,0.5,beast,Large,12,19,swim,unaligned,False,15.0,10.0,13.0,2.0,10.0,5.0,None,None,unaligned
+cult-fanatic,2.0,humanoid,Medium,13,33,land,any non-good alignment,False,11.0,14.0,12.0,10.0,13.0,14.0,any,good,aligned
+cultist,0.125,humanoid,Medium,12,9,land,any non-good alignment,False,11.0,12.0,10.0,10.0,11.0,10.0,any,good,aligned
+cyclops,6.0,giant,Huge,14,138,land,chaotic neutral,False,22.0,11.0,20.0,8.0,6.0,10.0,chaotic,neutral,aligned
+dao,11.0,elemental,Large,18,187,fly,neutral evil,False,23.0,12.0,24.0,12.0,13.0,14.0,neutral,evil,aligned
+darkmantle,0.5,monstrosity,Small,11,22,fly,unaligned,False,16.0,12.0,13.0,2.0,10.0,5.0,None,None,unaligned
+death-dog,1.0,monstrosity,Medium,12,39,land,neutral evil,False,15.0,14.0,14.0,3.0,13.0,6.0,neutral,evil,aligned
+deep-gnome-svirfneblin,0.5,humanoid,Small,15,16,land,neutral good,False,15.0,14.0,14.0,12.0,10.0,9.0,neutral,good,aligned
+deer,0.0,beast,Medium,13,4,land,unaligned,False,11.0,16.0,11.0,2.0,14.0,5.0,None,None,unaligned
+deva,10.0,celestial,Medium,17,136,fly,lawful good,False,18.0,18.0,18.0,17.0,20.0,20.0,lawful,good,aligned
+devilroot,7.0,plant,Medium,15,105,land,neutral evil,False,17.0,11.0,17.0,12.0,14.0,14.0,neutral,evil,aligned
+dire-wolf,1.0,beast,Large,14,37,land,unaligned,False,17.0,15.0,15.0,3.0,12.0,7.0,None,None,unaligned
+djinni,11.0,elemental,Large,17,161,fly,chaotic good,False,21.0,15.0,22.0,15.0,16.0,20.0,chaotic,good,aligned
+dolphin,0.125,beast,Medium,12,11,swim,unaligned,False,14.0,13.0,13.0,6.0,12.0,7.0,None,None,unaligned
+doppelganger,3.0,monstrosity,Medium,14,52,land,neutral,False,11.0,18.0,14.0,11.0,12.0,14.0,neutral,neutral,aligned
+draft-horse,0.25,beast,Large,10,19,land,unaligned,False,18.0,10.0,12.0,2.0,11.0,7.0,None,None,unaligned
+dragon-turtle,17.0,dragon,Gargantuan,20,341,swim,neutral,False,25.0,10.0,20.0,10.0,12.0,12.0,neutral,neutral,aligned
+dretch,0.25,fiend,Small,11,18,land,chaotic evil,False,11.0,11.0,12.0,5.0,8.0,3.0,chaotic,evil,aligned
+drider,6.0,monstrosity,Large,19,123,land,chaotic evil,False,16.0,16.0,18.0,13.0,14.0,12.0,chaotic,evil,aligned
+drow,0.25,humanoid,Medium,15,13,land,neutral evil,False,10.0,14.0,10.0,11.0,11.0,12.0,neutral,evil,aligned
+drow-house-captain,9.0,humanoid,Medium,16,162,land,neutral evil,False,14.0,19.0,15.0,12.0,14.0,13.0,neutral,evil,aligned
+drow-inquisitor,14.0,humanoid,Medium,16,143,land,neutral evil,False,11.0,15.0,14.0,16.0,21.0,20.0,neutral,evil,aligned
+drow-mage,7.0,humanoid,Medium,12,45,land,neutral evil,False,9.0,14.0,10.0,17.0,13.0,12.0,neutral,evil,aligned
+druid,2.0,humanoid,Medium,11,27,land,any alignment,False,10.0,12.0,13.0,12.0,15.0,11.0,any,any,any alignment
+dryad,1.0,fey,Medium,11,22,land,neutral,False,10.0,12.0,11.0,14.0,15.0,18.0,neutral,neutral,aligned
+duergar,1.0,humanoid,Medium,16,26,land,lawful evil,False,14.0,11.0,14.0,11.0,10.0,9.0,lawful,evil,aligned
+dust-mephit,0.5,elemental,Small,12,17,fly,neutral evil,False,5.0,14.0,10.0,9.0,11.0,10.0,neutral,evil,aligned
+eagle,0.0,beast,Small,12,3,fly,unaligned,False,6.0,15.0,10.0,2.0,14.0,7.0,None,None,unaligned
+earth-elemental,5.0,elemental,Large,17,126,land,neutral,False,20.0,8.0,20.0,5.0,10.0,5.0,neutral,neutral,aligned
+efreeti,11.0,elemental,Large,17,200,fly,lawful evil,False,22.0,12.0,24.0,16.0,15.0,16.0,lawful,evil,aligned
+elephant,4.0,beast,Huge,12,76,land,unaligned,False,22.0,9.0,17.0,3.0,11.0,6.0,None,None,unaligned
+elk,0.25,beast,Large,10,13,land,unaligned,False,16.0,10.0,12.0,2.0,10.0,6.0,None,None,unaligned
+erinyes,12.0,fiend,Medium,18,153,fly,lawful evil,False,18.0,16.0,18.0,14.0,14.0,18.0,lawful,evil,aligned
+ettercap,2.0,monstrosity,Medium,13,44,land,neutral evil,False,14.0,15.0,13.0,7.0,12.0,8.0,neutral,evil,aligned
+ettin,4.0,giant,Large,12,85,land,chaotic evil,False,21.0,8.0,17.0,6.0,10.0,8.0,chaotic,evil,aligned
+fire-elemental,5.0,elemental,Large,13,102,land,neutral,False,10.0,17.0,16.0,6.0,10.0,7.0,neutral,neutral,aligned
+fire-giant,9.0,giant,Huge,18,162,land,lawful evil,False,25.0,9.0,23.0,10.0,14.0,13.0,lawful,evil,aligned
+fire-snake,1.0,elemental,Medium,14,22,land,neutral evil,False,12.0,14.0,11.0,7.0,10.0,8.0,neutral,evil,aligned
+flameskull,4.0,undead,Tiny,13,40,fly,neutral evil,False,1.0,17.0,14.0,16.0,10.0,11.0,neutral,evil,aligned
+flesh-golem,5.0,construct,Medium,9,93,land,neutral,False,19.0,9.0,18.0,6.0,10.0,5.0,neutral,neutral,aligned
+flind,9.0,humanoid,Medium,16,127,land,chaotic evil,False,20.0,10.0,19.0,11.0,13.0,12.0,chaotic,evil,aligned
+flying-snake,0.125,beast,Tiny,14,5,"fly, swim",unaligned,False,4.0,18.0,11.0,2.0,12.0,5.0,None,None,unaligned
+flying-sword,0.25,construct,Small,17,17,fly,unaligned,False,12.0,15.0,11.0,1.0,5.0,1.0,None,None,unaligned
+frog,0.0,beast,Tiny,11,1,swim,unaligned,False,1.0,13.0,8.0,1.0,8.0,3.0,None,None,unaligned
+froghemoth,10.0,monstrosity,Huge,14,184,swim,unaligned,False,23.0,13.0,20.0,2.0,12.0,5.0,None,None,unaligned
+frost-giant,8.0,giant,Huge,15,138,land,neutral evil,False,23.0,9.0,21.0,9.0,10.0,12.0,neutral,evil,aligned
+galeb-duhr,6.0,elemental,Medium,16,85,land,neutral,False,20.0,14.0,20.0,11.0,12.0,11.0,neutral,neutral,aligned
+gargoyle,2.0,elemental,Medium,15,52,fly,chaotic evil,False,15.0,11.0,16.0,6.0,11.0,7.0,chaotic,evil,aligned
+gauth,6.0,aberration,Medium,15,67,fly,lawful evil,False,10.0,14.0,16.0,15.0,15.0,13.0,lawful,evil,aligned
+gelatinous-cube,2.0,ooze,Large,6,84,land,unaligned,False,14.0,3.0,20.0,1.0,6.0,1.0,None,None,unaligned
+ghast,2.0,undead,Medium,13,36,land,chaotic evil,False,16.0,17.0,10.0,11.0,10.0,8.0,chaotic,evil,aligned
+ghost,4.0,undead,Medium,11,45,fly,any alignment,False,7.0,13.0,10.0,10.0,12.0,17.0,any,any,any alignment
+ghoul,1.0,undead,Medium,12,22,land,chaotic evil,False,13.0,15.0,10.0,7.0,10.0,6.0,chaotic,evil,aligned
+giant-ape,7.0,beast,Huge,12,157,land,unaligned,False,23.0,14.0,18.0,7.0,12.0,7.0,None,None,unaligned
+giant-badger,0.25,beast,Medium,10,13,land,unaligned,False,13.0,10.0,15.0,2.0,12.0,5.0,None,None,unaligned
+giant-bat,0.25,beast,Large,13,22,fly,unaligned,False,15.0,16.0,11.0,2.0,12.0,6.0,None,None,unaligned
+giant-boar,2.0,beast,Large,12,42,land,unaligned,False,17.0,10.0,16.0,2.0,7.0,5.0,None,None,unaligned
+giant-centipede,0.25,beast,Small,13,4,land,unaligned,False,5.0,14.0,12.0,1.0,7.0,3.0,None,None,unaligned
+giant-constrictor-snake,2.0,beast,Huge,12,60,swim,unaligned,False,19.0,14.0,12.0,1.0,10.0,3.0,None,None,unaligned
+giant-crab,0.125,beast,Medium,15,13,swim,unaligned,False,13.0,15.0,11.0,1.0,9.0,3.0,None,None,unaligned
+giant-crocodile,5.0,beast,Huge,14,85,swim,unaligned,False,21.0,9.0,17.0,2.0,10.0,7.0,None,None,unaligned
+giant-eagle,1.0,beast,Large,13,26,fly,neutral good,False,16.0,17.0,13.0,8.0,14.0,10.0,neutral,good,aligned
+giant-elk,2.0,beast,Huge,14,42,land,unaligned,False,19.0,16.0,14.0,7.0,14.0,10.0,None,None,unaligned
+giant-fire-beetle,0.0,beast,Small,13,4,land,unaligned,False,8.0,10.0,12.0,1.0,7.0,3.0,None,None,unaligned
+giant-frog,0.25,beast,Medium,11,18,swim,unaligned,False,12.0,13.0,11.0,2.0,10.0,3.0,None,None,unaligned
+giant-goat,0.5,beast,Large,11,19,land,unaligned,False,17.0,11.0,12.0,3.0,12.0,6.0,None,None,unaligned
+giant-hyena,1.0,beast,Large,12,45,land,unaligned,False,16.0,14.0,14.0,2.0,12.0,7.0,None,None,unaligned
+giant-lizard,0.25,beast,Large,12,19,land,unaligned,False,15.0,12.0,13.0,2.0,10.0,5.0,None,None,unaligned
+giant-octopus,1.0,beast,Large,11,52,swim,unaligned,False,17.0,13.0,13.0,4.0,10.0,4.0,None,None,unaligned
+giant-owl,0.25,beast,Large,12,19,fly,neutral,False,13.0,15.0,12.0,8.0,13.0,10.0,neutral,neutral,aligned
+giant-poisonous-snake,0.25,beast,Medium,14,11,swim,unaligned,False,10.0,18.0,13.0,2.0,10.0,3.0,None,None,unaligned
+giant-rat,0.125,beast,Small,12,7,land,unaligned,False,7.0,15.0,11.0,2.0,10.0,4.0,None,None,unaligned
+giant-scorpion,3.0,beast,Large,15,52,land,unaligned,False,15.0,13.0,15.0,1.0,9.0,3.0,None,None,unaligned
+giant-sea-horse,0.5,beast,Large,13,16,swim,unaligned,False,12.0,15.0,11.0,2.0,12.0,5.0,None,None,unaligned
+giant-shark,5.0,beast,Huge,13,126,swim,unaligned,False,23.0,11.0,21.0,1.0,10.0,5.0,None,None,unaligned
+giant-spider,1.0,beast,Large,14,26,land,unaligned,False,14.0,16.0,12.0,2.0,11.0,4.0,None,None,unaligned
+giant-toad,1.0,beast,Large,11,39,swim,unaligned,False,15.0,13.0,13.0,2.0,10.0,3.0,None,None,unaligned
+giant-two-headed-goat,0.5,beast,Large,11,19,land,unaligned,False,17.0,11.0,12.0,3.0,12.0,6.0,None,None,unaligned
+giant-vulture,1.0,beast,Large,10,22,fly,neutral evil,False,15.0,10.0,15.0,6.0,12.0,7.0,neutral,evil,aligned
+giant-wasp,0.5,beast,Medium,12,13,fly,unaligned,False,10.0,14.0,10.0,1.0,10.0,3.0,None,None,unaligned
+giant-weasel,0.125,beast,Medium,13,9,land,unaligned,False,11.0,16.0,10.0,4.0,12.0,5.0,None,None,unaligned
+giant-wolf-spider,0.25,beast,Medium,13,11,land,unaligned,False,12.0,16.0,13.0,3.0,12.0,4.0,None,None,unaligned
+gibbering-mouther,2.0,aberration,Medium,9,67,swim,neutral,False,10.0,8.0,16.0,3.0,10.0,6.0,neutral,neutral,aligned
+glabrezu,9.0,fiend,Large,17,157,land,chaotic evil,False,20.0,15.0,21.0,19.0,17.0,16.0,chaotic,evil,aligned
+gladiator,5.0,humanoid,Medium,16,112,land,any alignment,False,18.0,15.0,16.0,10.0,12.0,15.0,any,any,any alignment
+gnoll,0.5,humanoid,Medium,15,22,land,chaotic evil,False,14.0,12.0,11.0,6.0,10.0,7.0,chaotic,evil,aligned
+gnoll-pack-lord,2.0,humanoid,Medium,15,49,land,chaotic evil,False,16.0,14.0,13.0,8.0,11.0,9.0,chaotic,evil,aligned
+goat,0.0,beast,Medium,10,4,land,unaligned,False,12.0,10.0,11.0,2.0,10.0,5.0,None,None,unaligned
+goblin,0.25,humanoid,Small,15,7,land,neutral evil,False,8.0,14.0,10.0,10.0,8.0,8.0,neutral,evil,aligned
+gold-dragon-wyrmling,3.0,dragon,Medium,17,60,"fly, swim",lawful good,False,19.0,14.0,17.0,14.0,11.0,16.0,lawful,good,aligned
+gorgon,5.0,monstrosity,Large,19,114,land,unaligned,False,20.0,11.0,18.0,2.0,12.0,7.0,None,None,unaligned
+gray-ooze,0.5,ooze,Medium,8,22,land,unaligned,False,12.0,6.0,16.0,1.0,6.0,2.0,None,None,unaligned
+green-dragon-wyrmling,2.0,dragon,Medium,17,38,"fly, swim",lawful evil,False,15.0,12.0,13.0,14.0,11.0,13.0,lawful,evil,aligned
+green-hag,3.0,fey,Medium,17,82,land,neutral evil,False,18.0,12.0,16.0,13.0,14.0,14.0,neutral,evil,aligned
+grell,3.0,aberration,Medium,12,55,fly,neutral evil,False,15.0,14.0,13.0,12.0,11.0,9.0,neutral,evil,aligned
+grick,2.0,monstrosity,Medium,14,27,land,neutral,False,14.0,14.0,11.0,3.0,14.0,5.0,neutral,neutral,aligned
+griffon,2.0,monstrosity,Large,12,59,fly,unaligned,False,18.0,15.0,16.0,2.0,13.0,8.0,None,None,unaligned
+grimlock,0.25,humanoid,Medium,11,11,land,neutral evil,False,16.0,12.0,12.0,9.0,8.0,6.0,neutral,evil,aligned
+guard,0.125,humanoid,Medium,16,11,land,any alignment,False,13.0,12.0,12.0,10.0,11.0,10.0,any,any,any alignment
+guardian-naga,10.0,monstrosity,Large,18,127,land,lawful good,False,19.0,18.0,16.0,16.0,19.0,18.0,lawful,good,aligned
+gynosphinx,11.0,monstrosity,Large,17,136,fly,lawful neutral,True,18.0,15.0,16.0,18.0,18.0,18.0,lawful,neutral,aligned
+half-ogre,1.0,giant,Large,12,30,land,any chaotic alignment,False,17.0,10.0,14.0,7.0,9.0,10.0,chaotic,any,aligned
+half-red-dragon-veteran,5.0,humanoid,Medium,18,65,land,any alignment,False,16.0,13.0,14.0,10.0,11.0,10.0,any,any,any alignment
+harpy,1.0,monstrosity,Medium,11,38,fly,chaotic evil,False,12.0,13.0,12.0,7.0,10.0,13.0,chaotic,evil,aligned
+hawk,0.0,beast,Tiny,13,1,fly,unaligned,False,5.0,16.0,8.0,2.0,14.0,6.0,None,None,unaligned
+hell-hound,3.0,fiend,Medium,15,45,land,lawful evil,False,17.0,12.0,14.0,6.0,13.0,6.0,lawful,evil,aligned
+helmed-horror,4.0,construct,Medium,20,60,fly,neutral,False,18.0,13.0,16.0,10.0,10.0,10.0,neutral,neutral,aligned
+hezrou,8.0,fiend,Large,16,136,land,chaotic evil,False,19.0,17.0,20.0,5.0,12.0,13.0,chaotic,evil,aligned
+hill-giant,5.0,giant,Huge,13,105,land,chaotic evil,False,21.0,8.0,19.0,5.0,9.0,6.0,chaotic,evil,aligned
+hippogriff,1.0,monstrosity,Large,11,19,fly,unaligned,False,17.0,13.0,13.0,2.0,12.0,8.0,None,None,unaligned
+hobgoblin,0.5,humanoid,Medium,18,11,land,lawful evil,False,13.0,12.0,12.0,10.0,10.0,9.0,lawful,evil,aligned
+hobgoblin-captain,3.0,humanoid,Medium,17,39,land,lawful evil,False,15.0,14.0,14.0,12.0,10.0,13.0,lawful,evil,aligned
+hobgoblin-iron-shadow,2.0,humanoid,Medium,15,32,land,lawful evil,False,14.0,16.0,15.0,14.0,15.0,11.0,lawful,evil,aligned
+homunculus,0.0,construct,Tiny,13,5,fly,neutral,False,4.0,15.0,11.0,10.0,10.0,7.0,neutral,neutral,aligned
+hook-horror,3.0,monstrosity,Large,15,75,land,neutral,False,18.0,10.0,15.0,6.0,12.0,7.0,neutral,neutral,aligned
+horned-devil,11.0,fiend,Large,18,178,fly,lawful evil,False,22.0,17.0,21.0,12.0,16.0,17.0,lawful,evil,aligned
+hunter-shark,2.0,beast,Large,12,45,swim,unaligned,False,18.0,13.0,15.0,1.0,10.0,4.0,None,None,unaligned
+hydra,8.0,monstrosity,Huge,15,172,swim,unaligned,False,20.0,12.0,20.0,2.0,10.0,7.0,None,None,unaligned
+hyena,0.0,beast,Medium,11,5,land,unaligned,False,11.0,13.0,12.0,2.0,12.0,5.0,None,None,unaligned
+ice-devil,14.0,fiend,Large,18,180,land,lawful evil,False,21.0,14.0,18.0,18.0,15.0,18.0,lawful,evil,aligned
+ice-mephit,0.5,elemental,Small,11,21,fly,neutral evil,False,7.0,13.0,10.0,9.0,11.0,12.0,neutral,evil,aligned
+imp,1.0,fiend,Tiny,13,10,fly,lawful evil,False,6.0,17.0,13.0,11.0,12.0,14.0,lawful,evil,aligned
+invisible-stalker,6.0,elemental,Medium,14,104,fly,neutral,False,16.0,19.0,14.0,10.0,15.0,11.0,neutral,neutral,aligned
+iron-golem,16.0,construct,Large,20,210,land,unaligned,False,24.0,9.0,20.0,3.0,11.0,1.0,None,None,unaligned
+jackal,0.0,beast,Small,12,3,land,unaligned,False,8.0,15.0,11.0,3.0,12.0,6.0,None,None,unaligned
+jackalwere,0.5,humanoid,Medium,12,18,land,chaotic evil,False,11.0,15.0,11.0,13.0,11.0,10.0,chaotic,evil,aligned
+kenku,0.25,humanoid,Medium,13,13,land,chaotic neutral,False,10.0,16.0,10.0,11.0,10.0,10.0,chaotic,neutral,aligned
+killer-whale,3.0,beast,Huge,12,90,swim,unaligned,False,19.0,10.0,13.0,3.0,12.0,7.0,None,None,unaligned
+knight,3.0,humanoid,Medium,18,52,land,any alignment,False,16.0,11.0,14.0,11.0,11.0,15.0,any,any,any alignment
+kobold,0.125,humanoid,Small,12,5,land,lawful evil,False,7.0,15.0,9.0,8.0,7.0,8.0,lawful,evil,aligned
+kobold-inventor,0.25,humanoid,Small,12,13,land,lawful evil,False,7.0,15.0,12.0,8.0,7.0,8.0,lawful,evil,aligned
+kraken,23.0,monstrosity,Gargantuan,18,472,swim,chaotic evil,True,30.0,11.0,25.0,22.0,18.0,20.0,chaotic,evil,aligned
+kuo-toa,0.25,humanoid,Medium,13,18,swim,neutral evil,False,13.0,10.0,11.0,11.0,10.0,8.0,neutral,evil,aligned
+kuo-toa-archpriest,6.0,humanoid,Medium,13,97,swim,neutral evil,False,16.0,14.0,16.0,13.0,16.0,14.0,neutral,evil,aligned
+kuo-toa-whip,1.0,humanoid,Medium,11,65,swim,neutral evil,False,14.0,10.0,14.0,12.0,14.0,11.0,neutral,evil,aligned
+laeral-silverhand,17.0,humanoid,Medium,18,228,land,chaotic good,False,13.0,17.0,20.0,20.0,20.0,19.0,chaotic,good,aligned
+lamia,4.0,monstrosity,Large,13,97,land,chaotic evil,False,16.0,13.0,15.0,14.0,15.0,16.0,chaotic,evil,aligned
+lemure,0.0,fiend,Medium,7,13,land,lawful evil,False,10.0,5.0,11.0,1.0,11.0,3.0,lawful,evil,aligned
+lich,21.0,undead,Medium,17,135,land,any evil alignment,True,11.0,16.0,16.0,20.0,14.0,16.0,any,evil,aligned
+lion,1.0,beast,Large,12,26,land,unaligned,False,17.0,15.0,13.0,3.0,12.0,8.0,None,None,unaligned
+lizard,0.0,beast,Tiny,10,2,land,unaligned,False,2.0,11.0,10.0,1.0,8.0,3.0,None,None,unaligned
+lizard-king-queen,4.0,humanoid,Medium,15,78,swim,chaotic evil,False,17.0,12.0,15.0,11.0,11.0,15.0,chaotic,evil,aligned
+lizardfolk,0.5,humanoid,Medium,15,22,swim,neutral,False,15.0,10.0,13.0,7.0,12.0,7.0,neutral,neutral,aligned
+lizardfolk-shaman,2.0,humanoid,Medium,13,27,swim,neutral,False,15.0,10.0,13.0,10.0,15.0,8.0,neutral,neutral,aligned
+mage,6.0,humanoid,Medium,12,40,land,any alignment,False,9.0,14.0,11.0,17.0,12.0,11.0,any,any,any alignment
+magma-mephit,0.5,elemental,Small,11,22,fly,neutral evil,False,8.0,12.0,12.0,7.0,10.0,10.0,neutral,evil,aligned
+magmin,0.5,elemental,Small,14,9,land,chaotic neutral,False,7.0,15.0,12.0,8.0,11.0,10.0,chaotic,neutral,aligned
+mammoth,6.0,beast,Huge,13,126,land,unaligned,False,24.0,9.0,21.0,3.0,11.0,6.0,None,None,unaligned
+manticore,3.0,monstrosity,Large,14,68,fly,lawful evil,False,17.0,16.0,17.0,7.0,12.0,8.0,lawful,evil,aligned
+marilith,16.0,fiend,Large,18,189,land,chaotic evil,False,18.0,20.0,20.0,18.0,16.0,20.0,chaotic,evil,aligned
+mastiff,0.125,beast,Medium,12,5,land,unaligned,False,13.0,14.0,12.0,3.0,12.0,7.0,None,None,unaligned
+medusa,6.0,monstrosity,Medium,15,127,land,lawful evil,False,10.0,15.0,16.0,12.0,13.0,15.0,lawful,evil,aligned
+merfolk,0.125,humanoid,Medium,11,11,swim,neutral,False,10.0,13.0,12.0,11.0,11.0,12.0,neutral,neutral,aligned
+merrow,2.0,monstrosity,Large,13,45,swim,chaotic evil,False,18.0,10.0,15.0,8.0,10.0,9.0,chaotic,evil,aligned
+mezzoloth,5.0,fiend,Medium,18,75,land,neutral evil,False,18.0,11.0,16.0,7.0,10.0,11.0,neutral,evil,aligned
+mimic,2.0,monstrosity,Medium,12,58,land,neutral,False,17.0,12.0,15.0,5.0,13.0,8.0,neutral,neutral,aligned
+mindwitness,5.0,aberration,Large,15,75,fly,lawful evil,False,10.0,14.0,14.0,15.0,15.0,10.0,lawful,evil,aligned
+minotaur,3.0,monstrosity,Large,14,76,land,chaotic evil,False,18.0,11.0,16.0,6.0,16.0,9.0,chaotic,evil,aligned
+minotaur-skeleton,2.0,undead,Large,12,67,land,lawful evil,False,18.0,11.0,15.0,6.0,8.0,5.0,lawful,evil,aligned
+moloch,21.0,fiend,Large,19,253,land,lawful evil,True,26.0,19.0,22.0,21.0,18.0,23.0,lawful,evil,aligned
+mud-mephit,0.25,elemental,Small,11,27,"fly, swim",neutral evil,False,8.0,12.0,12.0,9.0,11.0,7.0,neutral,evil,aligned
+mule,0.125,beast,Medium,10,11,land,unaligned,False,14.0,10.0,13.0,2.0,10.0,5.0,None,None,unaligned
+mummified-warrior,0.25,undead,Medium,8,19,land,neutral,False,13.0,6.0,14.0,8.0,6.0,8.0,neutral,neutral,aligned
+mummy,3.0,undead,Medium,11,58,land,lawful evil,False,16.0,8.0,15.0,6.0,10.0,12.0,lawful,evil,aligned
+mummy-lord,15.0,undead,Medium,17,97,land,lawful evil,True,18.0,10.0,17.0,11.0,18.0,16.0,lawful,evil,aligned
+nalfeshnee,13.0,fiend,Large,18,184,fly,chaotic evil,False,21.0,10.0,22.0,19.0,12.0,15.0,chaotic,evil,aligned
+narzugon,13.0,fiend,Medium,20,112,land,lawful evil,False,20.0,10.0,17.0,16.0,14.0,19.0,lawful,evil,aligned
+night-hag,5.0,fiend,Medium,17,112,land,neutral evil,False,18.0,15.0,16.0,16.0,14.0,16.0,neutral,evil,aligned
+nightmare,3.0,fiend,Large,13,68,fly,neutral evil,False,18.0,15.0,16.0,10.0,13.0,15.0,neutral,evil,aligned
+nilbog,1.0,humanoid,Small,13,7,land,chaotic evil,False,8.0,14.0,10.0,10.0,8.0,15.0,chaotic,evil,aligned
+noble,0.125,humanoid,Medium,15,9,land,any alignment,False,11.0,12.0,11.0,12.0,14.0,16.0,any,any,any alignment
+nothic,2.0,aberration,Medium,15,45,land,neutral evil,False,14.0,16.0,16.0,13.0,10.0,8.0,neutral,evil,aligned
+nycaloth,9.0,fiend,Large,18,123,fly,neutral evil,False,20.0,11.0,19.0,12.0,10.0,15.0,neutral,evil,aligned
+ochre-jelly,2.0,ooze,Large,8,45,land,unaligned,False,15.0,6.0,14.0,2.0,6.0,1.0,None,None,unaligned
+octopus,0.0,beast,Small,12,3,swim,unaligned,False,4.0,15.0,11.0,3.0,10.0,4.0,None,None,unaligned
+ogre,2.0,giant,Large,11,59,land,chaotic evil,False,19.0,8.0,16.0,5.0,7.0,7.0,chaotic,evil,aligned
+ogre-zombie,2.0,undead,Large,8,85,land,neutral evil,False,19.0,6.0,18.0,3.0,6.0,5.0,neutral,evil,aligned
+oni,7.0,giant,Large,16,110,fly,lawful evil,False,19.0,11.0,16.0,14.0,12.0,15.0,lawful,evil,aligned
+orc,0.5,humanoid,Medium,13,15,land,chaotic evil,False,16.0,12.0,16.0,7.0,11.0,10.0,chaotic,evil,aligned
+orc-eye-of-gruumsh,2.0,humanoid,Medium,16,45,land,chaotic evil,False,16.0,12.0,16.0,9.0,13.0,12.0,chaotic,evil,aligned
+orcus,26.0,fiend,Huge,17,405,fly,chaotic evil,True,27.0,14.0,25.0,20.0,20.0,25.0,chaotic,evil,aligned
+orog,2.0,humanoid,Medium,18,42,land,chaotic evil,False,18.0,12.0,18.0,12.0,11.0,12.0,chaotic,evil,aligned
+otyugh,5.0,aberration,Large,14,114,land,neutral,False,16.0,11.0,19.0,6.0,13.0,6.0,neutral,neutral,aligned
+owl,0.0,beast,Tiny,11,1,fly,unaligned,False,3.0,13.0,8.0,2.0,12.0,7.0,None,None,unaligned
+owlbear,3.0,monstrosity,Large,13,59,land,unaligned,False,20.0,12.0,17.0,3.0,12.0,7.0,None,None,unaligned
+panther,0.25,beast,Medium,12,13,land,unaligned,False,14.0,15.0,10.0,3.0,14.0,7.0,None,None,unaligned
+pegasus,2.0,celestial,Large,12,59,fly,chaotic good,False,18.0,15.0,16.0,10.0,15.0,13.0,chaotic,good,aligned
+peryton,2.0,monstrosity,Medium,13,33,fly,chaotic evil,False,16.0,12.0,13.0,9.0,12.0,10.0,chaotic,evil,aligned
+phase-spider,3.0,monstrosity,Large,13,32,land,unaligned,False,15.0,15.0,12.0,6.0,10.0,6.0,None,None,unaligned
+piercer,0.5,monstrosity,Medium,15,22,land,unaligned,False,10.0,13.0,16.0,1.0,7.0,3.0,None,None,unaligned
+pit-fiend,20.0,fiend,Large,19,300,fly,lawful evil,False,26.0,14.0,24.0,22.0,18.0,24.0,lawful,evil,aligned
+planetar,16.0,celestial,Large,19,200,fly,lawful good,False,24.0,20.0,24.0,19.0,22.0,25.0,lawful,good,aligned
+plesiosaurus,2.0,beast,Large,13,68,swim,unaligned,False,18.0,15.0,16.0,2.0,12.0,5.0,None,None,unaligned
+poisonous-snake,0.125,beast,Tiny,13,2,swim,unaligned,False,2.0,16.0,11.0,1.0,10.0,3.0,None,None,unaligned
+polar-bear,2.0,beast,Large,12,42,swim,unaligned,False,20.0,10.0,16.0,2.0,13.0,7.0,None,None,unaligned
+pony,0.125,beast,Medium,10,11,land,unaligned,False,15.0,10.0,13.0,2.0,11.0,7.0,None,None,unaligned
+priest,2.0,humanoid,Medium,13,27,land,any alignment,False,10.0,10.0,12.0,13.0,16.0,13.0,any,any,any alignment
+pseudodragon,0.25,dragon,Tiny,13,7,fly,neutral good,False,6.0,15.0,13.0,10.0,12.0,10.0,neutral,good,aligned
+pteranodon,0.25,beast,Medium,13,13,fly,unaligned,False,12.0,15.0,10.0,2.0,9.0,5.0,None,None,unaligned
+purple-worm,15.0,monstrosity,Gargantuan,18,247,land,unaligned,False,28.0,7.0,22.0,1.0,8.0,4.0,None,None,unaligned
+quasit,1.0,fiend,Tiny,13,7,land,chaotic evil,False,5.0,17.0,10.0,7.0,10.0,10.0,chaotic,evil,aligned
+quetzalcoatlus,2.0,beast,Huge,13,30,fly,unaligned,False,15.0,13.0,13.0,2.0,10.0,5.0,None,None,unaligned
+quipper,0.0,beast,Tiny,13,1,swim,unaligned,False,2.0,16.0,9.0,1.0,7.0,2.0,None,None,unaligned
+rakshasa,13.0,fiend,Medium,16,110,land,lawful evil,False,14.0,17.0,18.0,13.0,16.0,20.0,lawful,evil,aligned
+rat,0.0,beast,Tiny,10,1,land,unaligned,False,2.0,11.0,9.0,2.0,10.0,4.0,None,None,unaligned
+raven,0.0,beast,Tiny,12,1,fly,unaligned,False,2.0,14.0,8.0,2.0,12.0,6.0,None,None,unaligned
+red-dragon-wyrmling,4.0,dragon,Medium,17,75,fly,chaotic evil,False,19.0,10.0,17.0,12.0,11.0,15.0,chaotic,evil,aligned
+reef-manta-ray,0.5,beast,Large,12,16,swim,unaligned,False,13.0,12.0,12.0,1.0,12.0,4.0,None,None,unaligned
+reef-shark,0.5,beast,Medium,12,22,swim,unaligned,False,14.0,13.0,13.0,1.0,10.0,4.0,None,None,unaligned
+remorhaz,11.0,monstrosity,Huge,17,195,land,unaligned,False,24.0,13.0,21.0,4.0,10.0,5.0,None,None,unaligned
+revenant,5.0,undead,Medium,13,136,land,neutral,False,18.0,14.0,18.0,13.0,16.0,18.0,neutral,neutral,aligned
+rhinoceros,2.0,beast,Large,11,45,land,unaligned,False,21.0,8.0,15.0,2.0,12.0,6.0,None,None,unaligned
+riding-horse,0.25,beast,Large,10,13,land,unaligned,False,16.0,10.0,12.0,2.0,11.0,7.0,None,None,unaligned
+roc,11.0,monstrosity,Gargantuan,15,248,fly,unaligned,False,28.0,10.0,20.0,3.0,10.0,9.0,None,None,unaligned
+roper,5.0,monstrosity,Large,20,93,land,neutral evil,False,18.0,8.0,17.0,7.0,16.0,6.0,neutral,evil,aligned
+rug-of-smothering,2.0,construct,Large,12,33,land,unaligned,False,17.0,14.0,10.0,1.0,3.0,1.0,None,None,unaligned
+rust-monster,0.5,monstrosity,Medium,14,27,land,unaligned,False,13.0,12.0,13.0,2.0,13.0,6.0,None,None,unaligned
+saber-toothed-tiger,2.0,beast,Large,12,52,land,unaligned,False,18.0,14.0,15.0,3.0,12.0,8.0,None,None,unaligned
+sahuagin,0.5,humanoid,Medium,12,22,swim,lawful evil,False,13.0,11.0,12.0,12.0,13.0,9.0,lawful,evil,aligned
+salamander,5.0,elemental,Large,15,90,land,neutral evil,False,18.0,14.0,15.0,11.0,10.0,12.0,neutral,evil,aligned
+satyr,0.5,fey,Medium,14,31,land,chaotic neutral,False,12.0,16.0,11.0,12.0,10.0,14.0,chaotic,neutral,aligned
+scorpion,0.0,beast,Tiny,11,1,land,unaligned,False,2.0,11.0,8.0,1.0,8.0,2.0,None,None,unaligned
+scout,0.5,humanoid,Medium,13,16,land,any alignment,False,11.0,14.0,12.0,11.0,13.0,11.0,any,any,any alignment
+sea-hag,2.0,fey,Medium,14,52,swim,chaotic evil,False,16.0,13.0,16.0,12.0,12.0,13.0,chaotic,evil,aligned
+sea-horse,0.0,beast,Tiny,11,1,swim,unaligned,False,1.0,12.0,8.0,1.0,10.0,2.0,None,None,unaligned
+shadow,0.5,undead,Medium,12,16,land,chaotic evil,False,6.0,14.0,13.0,6.0,10.0,8.0,chaotic,evil,aligned
+shadow-demon,4.0,fiend,Medium,13,66,fly,chaotic evil,False,1.0,17.0,12.0,14.0,13.0,14.0,chaotic,evil,aligned
+shambling-mound,5.0,plant,Large,15,136,swim,unaligned,False,18.0,8.0,16.0,5.0,10.0,5.0,None,None,unaligned
+shield-guardian,7.0,construct,Large,17,142,land,unaligned,False,18.0,8.0,18.0,7.0,10.0,3.0,None,None,unaligned
+shrieker,0.0,plant,Medium,5,13,land,unaligned,False,1.0,1.0,10.0,1.0,3.0,1.0,None,None,unaligned
+sibriex,18.0,fiend,Huge,19,150,fly,chaotic evil,True,10.0,3.0,23.0,25.0,24.0,25.0,chaotic,evil,aligned
+silver-dragon-wyrmling,2.0,dragon,Medium,17,45,fly,lawful good,False,19.0,10.0,17.0,12.0,11.0,15.0,lawful,good,aligned
+skeleton,0.25,undead,Medium,13,13,land,lawful evil,False,10.0,14.0,15.0,6.0,8.0,5.0,lawful,evil,aligned
+slithering-tracker,3.0,ooze,Medium,14,32,swim,chaotic evil,False,16.0,19.0,15.0,10.0,14.0,11.0,chaotic,evil,aligned
+smoke-mephit,0.25,elemental,Small,12,22,fly,neutral evil,False,6.0,14.0,12.0,10.0,10.0,11.0,neutral,evil,aligned
+solar,21.0,celestial,Large,21,243,fly,lawful good,True,26.0,22.0,26.0,25.0,25.0,30.0,lawful,good,aligned
+spectator,3.0,aberration,Medium,14,39,fly,lawful neutral,False,8.0,14.0,14.0,13.0,14.0,11.0,lawful,neutral,aligned
+specter,1.0,undead,Medium,12,22,fly,chaotic evil,False,1.0,14.0,11.0,10.0,10.0,11.0,chaotic,evil,aligned
+spider,0.0,beast,Tiny,12,1,land,unaligned,False,2.0,14.0,8.0,1.0,10.0,2.0,None,None,unaligned
+spirit-naga,8.0,monstrosity,Large,15,75,land,chaotic evil,False,18.0,17.0,14.0,16.0,15.0,16.0,chaotic,evil,aligned
+sprite,0.25,fey,Tiny,15,2,fly,neutral good,False,3.0,18.0,10.0,14.0,13.0,11.0,neutral,good,aligned
+spy,1.0,humanoid,Medium,12,27,land,any alignment,False,10.0,15.0,10.0,12.0,14.0,16.0,any,any,any alignment
+steam-mephit,0.25,elemental,Small,10,21,fly,neutral evil,False,5.0,11.0,10.0,11.0,10.0,12.0,neutral,evil,aligned
+stirge,0.125,beast,Tiny,14,2,fly,unaligned,False,4.0,16.0,11.0,2.0,8.0,6.0,None,None,unaligned
+stone-giant,7.0,giant,Huge,17,126,land,neutral,False,23.0,15.0,20.0,10.0,12.0,9.0,neutral,neutral,aligned
+stone-giant-dreamwalker,10.0,giant,Huge,18,161,land,chaotic neutral,False,23.0,14.0,21.0,10.0,8.0,12.0,chaotic,neutral,aligned
+stone-golem,10.0,construct,Large,17,178,land,unaligned,False,22.0,9.0,20.0,3.0,11.0,1.0,None,None,unaligned
+storm-giant,13.0,giant,Huge,16,230,swim,chaotic good,False,29.0,14.0,20.0,16.0,18.0,18.0,chaotic,good,aligned
+succubus,4.0,fiend,Medium,15,66,fly,neutral evil,False,8.0,17.0,13.0,15.0,12.0,20.0,neutral,evil,aligned
+swarm-of-bats,0.25,swarm of Tiny beasts,Medium,12,22,fly,unaligned,False,5.0,15.0,10.0,2.0,12.0,4.0,None,None,unaligned
+swarm-of-insects,0.5,swarm of Tiny beasts,Medium,12,22,land,unaligned,False,3.0,13.0,10.0,1.0,7.0,1.0,None,None,unaligned
+swarm-of-poisonous-snakes,2.0,swarm of Tiny beasts,Medium,14,36,swim,unaligned,False,8.0,18.0,11.0,1.0,10.0,3.0,None,None,unaligned
+swarm-of-quippers,1.0,swarm of Tiny beasts,Medium,13,28,swim,unaligned,False,13.0,16.0,9.0,1.0,7.0,2.0,None,None,unaligned
+swarm-of-rats,0.25,swarm of Tiny beasts,Medium,10,24,land,unaligned,False,9.0,11.0,9.0,2.0,10.0,3.0,None,None,unaligned
+swarm-of-ravens,0.25,swarm of Tiny beasts,Medium,12,24,fly,unaligned,False,6.0,14.0,8.0,3.0,12.0,6.0,None,None,unaligned
+swarm-of-rot-grubs,0.5,swarm of Tiny beasts,Medium,8,22,land,unaligned,False,2.0,7.0,10.0,1.0,2.0,1.0,None,None,unaligned
+tanarukk,5.0,fiend,Medium,14,95,land,chaotic evil,False,18.0,13.0,20.0,9.0,9.0,9.0,chaotic,evil,aligned
+tarrasque,30.0,monstrosity,Gargantuan,25,676,land,unaligned,True,30.0,11.0,30.0,3.0,11.0,11.0,None,None,unaligned
+thug,0.5,humanoid,Medium,11,32,land,any non-good alignment,False,15.0,11.0,14.0,10.0,10.0,11.0,any,good,aligned
+tiger,1.0,beast,Large,12,37,land,unaligned,False,17.0,15.0,14.0,3.0,12.0,8.0,None,None,unaligned
+treant,9.0,plant,Huge,16,138,land,chaotic good,False,23.0,8.0,21.0,12.0,16.0,12.0,chaotic,good,aligned
+tribal-warrior,0.125,humanoid,Medium,12,11,land,any alignment,False,13.0,11.0,12.0,8.0,11.0,8.0,any,any,any alignment
+triceratops,5.0,beast,Huge,13,95,land,unaligned,False,22.0,9.0,17.0,2.0,11.0,5.0,None,None,unaligned
+troglodyte,0.25,humanoid,Medium,11,13,land,chaotic evil,False,14.0,10.0,14.0,6.0,10.0,6.0,chaotic,evil,aligned
+troll,5.0,giant,Large,15,84,land,chaotic evil,False,18.0,13.0,20.0,7.0,9.0,7.0,chaotic,evil,aligned
+twig-blight,0.125,plant,Small,13,4,land,neutral evil,False,6.0,13.0,12.0,4.0,8.0,3.0,neutral,evil,aligned
+tyrannosaurus-rex,8.0,beast,Huge,13,136,land,unaligned,False,25.0,10.0,19.0,2.0,12.0,9.0,None,None,unaligned
+umber-hulk,5.0,monstrosity,Large,18,93,land,chaotic evil,False,20.0,13.0,16.0,9.0,10.0,10.0,chaotic,evil,aligned
+unicorn,5.0,celestial,Large,12,67,land,lawful good,True,18.0,14.0,15.0,11.0,17.0,16.0,lawful,good,aligned
+vampire,13.0,undead,Medium,16,144,land,lawful evil,True,18.0,18.0,18.0,17.0,15.0,18.0,lawful,evil,aligned
+vampire-spawn,5.0,undead,Medium,15,82,land,neutral evil,False,16.0,16.0,16.0,11.0,10.0,12.0,neutral,evil,aligned
+venerable-shadow,2.0,undead,Medium,13,27,land,chaotic evil,False,6.0,16.0,13.0,6.0,12.0,10.0,chaotic,evil,aligned
+veteran,3.0,humanoid,Medium,17,58,land,any alignment,False,16.0,13.0,14.0,10.0,11.0,10.0,any,any,any alignment
+violet-fungus,0.25,plant,Medium,5,18,land,unaligned,False,3.0,1.0,10.0,1.0,3.0,1.0,None,None,unaligned
+vrock,6.0,fiend,Large,15,104,fly,chaotic evil,False,17.0,15.0,18.0,8.0,13.0,8.0,chaotic,evil,aligned
+vulture,0.0,beast,Medium,10,5,fly,unaligned,False,7.0,10.0,13.0,2.0,12.0,4.0,None,None,unaligned
+warhorse,0.5,beast,Large,11,19,land,unaligned,False,18.0,12.0,13.0,2.0,12.0,7.0,None,None,unaligned
+warhorse-skeleton,0.5,undead,Large,13,22,land,lawful evil,False,18.0,12.0,15.0,2.0,8.0,5.0,lawful,evil,aligned
+water-elemental,5.0,elemental,Large,14,114,swim,neutral,False,18.0,14.0,18.0,5.0,10.0,8.0,neutral,neutral,aligned
+water-weird,3.0,elemental,Large,13,58,swim,neutral,False,17.0,16.0,13.0,11.0,10.0,10.0,neutral,neutral,aligned
+weasel,0.0,beast,Tiny,13,1,land,unaligned,False,3.0,16.0,8.0,2.0,12.0,3.0,None,None,unaligned
+werebear,5.0,humanoid,Medium,10,135,land,neutral good,False,19.0,10.0,17.0,11.0,12.0,12.0,neutral,good,aligned
+wereboar,4.0,humanoid,Medium,10,78,land,neutral evil,False,17.0,10.0,15.0,10.0,11.0,8.0,neutral,evil,aligned
+wererat,2.0,humanoid,Medium,12,33,land,lawful evil,False,10.0,15.0,12.0,11.0,10.0,8.0,lawful,evil,aligned
+weretiger,4.0,humanoid,Medium,12,120,land,neutral,False,17.0,15.0,16.0,10.0,13.0,11.0,neutral,neutral,aligned
+werewolf,3.0,humanoid,Medium,11,58,land,chaotic evil,False,15.0,13.0,14.0,10.0,11.0,10.0,chaotic,evil,aligned
+white-dragon-wyrmling,2.0,dragon,Medium,16,32,"fly, swim",chaotic evil,False,14.0,10.0,14.0,5.0,10.0,11.0,chaotic,evil,aligned
+wight,3.0,undead,Medium,14,45,land,neutral evil,False,15.0,14.0,16.0,10.0,13.0,15.0,neutral,evil,aligned
+wild-dog,0.125,beast,Medium,12,5,land,unaligned,False,13.0,14.0,12.0,3.0,12.0,7.0,None,None,unaligned
+wild-dog-alpha,1.0,beast,Large,12,26,land,unaligned,False,17.0,15.0,13.0,3.0,12.0,8.0,None,None,unaligned
+will-o--wisp,2.0,undead,Tiny,19,22,fly,chaotic evil,False,1.0,28.0,10.0,13.0,14.0,11.0,chaotic,evil,aligned
+winged-kobold,0.25,humanoid,Small,13,7,fly,lawful evil,False,7.0,16.0,9.0,8.0,7.0,8.0,lawful,evil,aligned
+winter-wolf,3.0,monstrosity,Large,13,75,land,neutral evil,False,18.0,13.0,14.0,7.0,12.0,8.0,neutral,evil,aligned
+wolf,0.25,beast,Medium,13,11,land,unaligned,False,12.0,15.0,12.0,3.0,12.0,6.0,None,None,unaligned
+worg,0.5,monstrosity,Large,13,26,land,neutral evil,False,16.0,13.0,13.0,7.0,11.0,8.0,neutral,evil,aligned
+wraith,5.0,undead,Medium,13,67,fly,neutral evil,False,6.0,16.0,16.0,12.0,14.0,15.0,neutral,evil,aligned
+wyvern,6.0,dragon,Large,13,110,fly,unaligned,False,19.0,10.0,16.0,5.0,12.0,6.0,None,None,unaligned
+xorn,5.0,elemental,Medium,19,73,land,neutral,False,17.0,10.0,22.0,11.0,10.0,11.0,neutral,neutral,aligned
+yeti,3.0,monstrosity,Large,12,51,land,chaotic evil,False,18.0,13.0,16.0,8.0,12.0,7.0,chaotic,evil,aligned
+young-black-dragon,7.0,dragon,Large,18,127,"fly, swim",chaotic evil,False,19.0,14.0,17.0,12.0,11.0,15.0,chaotic,evil,aligned
+young-blue-dragon,9.0,dragon,Large,18,152,fly,lawful evil,False,21.0,10.0,19.0,14.0,13.0,17.0,lawful,evil,aligned
+young-brass-dragon,6.0,dragon,Large,17,110,fly,chaotic good,False,19.0,10.0,17.0,12.0,11.0,15.0,chaotic,good,aligned
+young-bronze-dragon,8.0,dragon,Large,18,142,"fly, swim",lawful good,False,21.0,10.0,19.0,14.0,13.0,17.0,lawful,good,aligned
+young-copper-dragon,7.0,dragon,Large,17,119,fly,chaotic good,False,19.0,12.0,17.0,16.0,13.0,15.0,chaotic,good,aligned
+young-gold-dragon,10.0,dragon,Large,18,178,"fly, swim",lawful good,False,23.0,14.0,21.0,16.0,13.0,20.0,lawful,good,aligned
+young-green-dragon,8.0,dragon,Large,18,136,"fly, swim",lawful evil,False,19.0,12.0,17.0,16.0,13.0,15.0,lawful,evil,aligned
+young-red-dragon,10.0,dragon,Large,18,178,fly,chaotic evil,False,23.0,10.0,21.0,14.0,11.0,19.0,chaotic,evil,aligned
+young-silver-dragon,9.0,dragon,Large,18,168,fly,lawful good,False,23.0,10.0,21.0,14.0,11.0,19.0,lawful,good,aligned
+young-white-dragon,6.0,dragon,Large,17,133,"fly, swim",chaotic evil,False,18.0,10.0,18.0,6.0,11.0,12.0,chaotic,evil,aligned
+yuan-ti-abomination,7.0,monstrosity,Large,15,127,land,neutral evil,False,19.0,16.0,17.0,17.0,15.0,18.0,neutral,evil,aligned
+yuan-ti-malison,3.0,monstrosity,Medium,12,66,land,neutral evil,False,16.0,14.0,13.0,14.0,12.0,16.0,neutral,evil,aligned
+yuan-ti-nightmare-speaker,4.0,monstrosity,Medium,14,71,land,neutral evil,False,16.0,14.0,13.0,14.0,12.0,16.0,neutral,evil,aligned
+yuan-ti-pureblood,1.0,humanoid,Medium,11,40,land,neutral evil,False,11.0,12.0,11.0,13.0,12.0,14.0,neutral,evil,aligned
+zariel,26.0,fiend,Large,21,580,fly,lawful evil,True,27.0,24.0,28.0,26.0,27.0,30.0,lawful,evil,aligned
+zombie,0.25,undead,Medium,8,22,land,neutral evil,False,13.0,6.0,16.0,3.0,6.0,5.0,neutral,evil,aligned
